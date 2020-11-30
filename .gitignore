@@ -1,11 +1,12 @@
-.DS_Store
-dist/
-dist-web/
-node_modules/
-docs-build/
-*.tgz
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
 
-#cypress artifacts
-cypress/screenshots/
-cypress/videos/
-reports/
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
