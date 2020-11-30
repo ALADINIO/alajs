@@ -23,7 +23,10 @@
 ## Documentation
 <a name='docs' />
 
-[Documentation](https://alaio.github.io/alajs)
+- [Documentation](https://alaio.github.io/alajs)
+- [Transaction Examples](https://github.com/ALADINIO/alajs/blob/master/docs/2.-Transaction-Examples.md)
+- [Browsers](https://github.com/ALADINIO/alajs/blob/master/docs/3.-Browsers.md)
+- [Reading Blockchain](https://github.com/ALADINIO/alajs/blob/master/docs/4.-Reading%20blockchain-Examples.md)
 
 ## Installation
 <a name='install' />
